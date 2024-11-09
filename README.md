@@ -6,6 +6,6 @@ The original rat was in utils, i also uploaded the 1.0.4 version. Both are safe
 
 # SRC
 
-ok i also decided to upload the src, its NOT a buildable src, its just here so you can jew code from it :trollface:
+ok i also decided to upload the src, its NOT a buildable src, its just here so you can take(lol) code from it :trollface:
 
 
